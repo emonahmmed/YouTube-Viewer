@@ -174,10 +174,10 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open command prompt and type
   ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/emonahmmed/youtube-tool.git --depth 10
   ```
   ```
-  cd YouTube-Viewer
+  cd youtube-tool
   ```
   ```
   python -m pip install --upgrade pip wheel
@@ -213,10 +213,10 @@ Simple program to increase YouTube views written in Python. Works with live stre
   
   Open your favourite terminal and run
    ```
-  git clone https://github.com/MShawon/YouTube-Viewer.git --depth 10
+  git clone https://github.com/emonahmmed/youtube-tool.git --depth 10
   ```
   ```
-  cd YouTube-Viewer
+  cd youtube-tool
   ```
   ```
   python3 -m pip install --upgrade pip wheel
