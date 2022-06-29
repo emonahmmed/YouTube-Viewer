@@ -62,7 +62,7 @@ Yb  dP  dP"Yb  88   88 888888 88   88 88""Yb 888888
 """ + bcolors.ENDC)
 
 print(bcolors.OKCYAN + """
-           [ GitHub : https://github.com/MShawon/YouTube-Viewer ]
+           [ Telegram : https:/t.me/BlankRoad ]
 """ + bcolors.ENDC)
 
 print(bcolors.WARNING + f"""
